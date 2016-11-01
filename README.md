@@ -6,4 +6,4 @@ My daily log day after day.
 
 ## 2016
 
-[July](/log/2016/07/README.md) • [August](/log/2016/08/README.md) • [September](/log/2016/09/README.md) • [October](/log/2016/10/README.md)
+[July](/log/2016/07/README.md) • [August](/log/2016/08/README.md) • [September](/log/2016/09/README.md) • [October](/log/2016/10/README.md) • [November](/log/2016/11/README.md)
