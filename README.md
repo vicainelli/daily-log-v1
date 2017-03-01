@@ -6,7 +6,7 @@ My daily log day after day.
 
 ## 2017
 
-[January](/log/2017/01/README.md) • [February](/log/2017/02/README.md)
+[January](/log/2017/01/README.md) • [February](/log/2017/02/README.md) • [March](/log/2017/03/README.md)
 
 ## 2016
 
