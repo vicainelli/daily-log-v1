@@ -4,6 +4,9 @@ My daily log day after day.
 
 *Inspired by [Felipe Fialho](https://github.com/lfeh/dailylog) daily log.*
 
+## 2018
+[August](/log/2018/08/README.md)
+
 ## 2017
 
 [January](/log/2017/01/README.md) • [February](/log/2017/02/README.md) • [March](/log/2017/03/README.md) • [April](/log/2017/04/README.md) • [May](/log/2017/05/README.md) • [June](/log/2017/06/README.md)
